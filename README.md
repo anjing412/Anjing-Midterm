@@ -1,4 +1,4 @@
-# Anjing-Midterm## Description
+# Description
 1054-01-2 Week 5 practical class build
 
 ## Installation
